@@ -32,7 +32,7 @@ function btnClicked() {
           </p>
            `;
   } else if (question === "will it snow") {
-    // IF ASKED ABOUT JAVASCRIPT
+    // IF ASKED ABOUT THE WEATHER
     document.getElementById("answer").innerHTML = `      <p>
          <strong
              >Answer: <span class="green">You live in Canada, what did you expect?</span></strong
